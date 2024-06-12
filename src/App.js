@@ -17,11 +17,11 @@ function App() {
             <div className="Container">
                 <Navbar />
                 <Routes>
-                    <Route path="/marina" element={<Home />} />
-                    <Route path="/marina/about" element={<About />} />
-                    <Route path="/marina/projects" element={<Projects />} />
-                    <Route path="/marina/services" element={<Services />} />
-                    <Route path="/marina/contact" element={<Contact />} />
+                    <Route path="/merina" element={<Home />} />
+                    <Route path="/merina/about" element={<About />} />
+                    <Route path="/merina/projects" element={<Projects />} />
+                    <Route path="/merina/services" element={<Services />} />
+                    <Route path="/merina/contact" element={<Contact />} />
                 </Routes>
                 <Footer />
             </div>
