@@ -1,3 +1,4 @@
+//Contact.js File name: MERINA, Student’s Name: Merina Ghising, StudentID: 301303828, and Date:2024-06-10.
 import React, { useState } from 'react';
 import  '../styles.css';
 

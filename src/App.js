@@ -1,4 +1,5 @@
-// src/App.js
+/* File name: App.js, Student Name: Merina Ghising, StudentID:301303828, Date:2024-06-12 */
+
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';

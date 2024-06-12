@@ -1,3 +1,4 @@
+/* File name: styles.css, Student Name: Merina Ghising, StudentID:301303828, Date:2024-06-12 */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -20,17 +21,7 @@ nav {
   padding: 10px;
 }
 
-nav img {
-  height: 50px;
-  margin-right: 20px;
-}
 
-nav a {
-  color: white;
-  margin: 0 10px;
-  text-decoration: none;
-  padding: 10px;
-}
 
 nav a:hover {
   background-color: #575757;
@@ -46,23 +37,7 @@ nav a:hover {
   border-radius: 10px;
 }
 
-.banner {
-  background-color: rgba(0, 0, 0, 0.7);
-  color: white;
-  padding: 50px 20px;
-  margin-bottom: 20px;
-  border-radius: 10px;
-}
 
-.banner h1 {
-  font-size: 2.5em;
-  margin: 0 0 10px 0;
-}
-
-.banner p {
-  font-size: 1.2em;
-  margin: 0;
-}
 
 .buttons {
   margin-top: 20px;

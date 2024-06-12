@@ -1,3 +1,6 @@
+
+
+/* File name: footer.js, Student Name: Merina Ghising, StudentID:301303828, Date:2024-06-12 */
 import React from "react";
 import { Link } from "react-router-dom";
 

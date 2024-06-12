@@ -1,3 +1,4 @@
+/* File name: index.js, Student Name: Merina Ghising, StudentID:301303828, Date:2024-06-12 */
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
