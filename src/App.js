@@ -17,11 +17,11 @@ function App() {
             <div className="Container">
                 <Navbar />
                 <Routes>
-                    <Route path="/" element={<Home />} />
-                    <Route path="/about" element={<About />} />
-                    <Route path="/projects" element={<Projects />} />
-                    <Route path="/services" element={<Services />} />
-                    <Route path="/contact" element={<Contact />} />
+                    <Route path="/marina" element={<Home />} />
+                    <Route path="/marina/about" element={<About />} />
+                    <Route path="/marina/projects" element={<Projects />} />
+                    <Route path="/marina/services" element={<Services />} />
+                    <Route path="/marina/contact" element={<Contact />} />
                 </Routes>
                 <Footer />
             </div>

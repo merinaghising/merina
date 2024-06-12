@@ -8,11 +8,11 @@ const Navbar = () => {
     <nav>
       <img src={logo} alt="Logo" style={{ height: '100px', marginRight: '15px' }} />
       <ul>
-        <li><Link to="/">Home</Link></li>
-        <li><Link to="/about">About Me</Link></li>
-        <li><Link to="/projects">Projects</Link></li>
-        <li><Link to="/services">Services</Link></li>
-        <li><Link to="/contact">Contact Me</Link></li>
+        <li><Link to="/marina/">Home</Link></li>
+        <li><Link to="/marina/about">About Me</Link></li>
+        <li><Link to="/marina/projects">Projects</Link></li>
+        <li><Link to="/marina/services">Services</Link></li>
+        <li><Link to="/marina/contact">Contact Me</Link></li>
       </ul>
     </nav>
   );
